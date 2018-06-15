@@ -1,0 +1,8 @@
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/bin/Release/netstandard2.0/app_consulta_cep.deps.json
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/bin/Release/netstandard2.0/app_consulta_cep.dll
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/bin/Release/netstandard2.0/app_consulta_cep.pdb
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Release/netstandard2.0/app_consulta_cep.csproj.CoreCompileInputs.cache
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Release/netstandard2.0/app_consulta_cep.AssemblyInfoInputs.cache
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Release/netstandard2.0/app_consulta_cep.AssemblyInfo.cs
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Release/netstandard2.0/app_consulta_cep.dll
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Release/netstandard2.0/app_consulta_cep.pdb

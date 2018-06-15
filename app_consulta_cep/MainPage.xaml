@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:app_consulta_cep" x:Class="app_consulta_cep.MainPage">
+    <StackLayout BackgroundColor="#FFBF00" Padding="30" Spacing="30" >
+        <!-- Place new controls here -->
+        <Image Source="LogoCorreios.png" x:Name="imgCorreios" />
+        <Entry Placeholder="Digite o CEP" PlaceholderColor="#FFBF00" BackgroundColor="#FFFFFF" x:Name="inputCEP" />
+        <Button Text="Buscar CEP" TextColor="#FFFFFF" BackgroundColor="#00416B" x:Name="btnBuscar" />
+        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" x:Name="txtCEP" />
+    </StackLayout>
+</ContentPage>

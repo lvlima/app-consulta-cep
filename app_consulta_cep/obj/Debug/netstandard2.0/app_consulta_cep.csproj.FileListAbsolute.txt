@@ -1,0 +1,12 @@
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Debug/netstandard2.0/app_consulta_cep.csprojResolveAssemblyReference.cache
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Debug/netstandard2.0/app_consulta_cep.csproj.CoreCompileInputs.cache
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Debug/netstandard2.0/app_consulta_cep.AssemblyInfoInputs.cache
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Debug/netstandard2.0/app_consulta_cep.AssemblyInfo.cs
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/bin/Debug/netstandard2.0/app_consulta_cep.deps.json
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/bin/Debug/netstandard2.0/app_consulta_cep.dll
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/bin/Debug/netstandard2.0/app_consulta_cep.pdb
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Debug/netstandard2.0/app_consulta_cep.dll
+/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj/Debug/netstandard2.0/app_consulta_cep.pdb
