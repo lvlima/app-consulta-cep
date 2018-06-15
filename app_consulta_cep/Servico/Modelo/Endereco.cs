@@ -1,6 +1,8 @@
 ﻿using System;
 namespace app_consulta_cep.Servico.Modelo
 {
+    //Comentário para testar o Git.
+
     public class Endereco
     {
         public string cep { get; set; }

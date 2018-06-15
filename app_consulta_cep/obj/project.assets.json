@@ -387,11 +387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/app_consulta_cep.csproj",
+      "projectUniqueName": "/Users/luizvictoral/Projects/app_consulta_cep2/app_consulta_cep/app_consulta_cep.csproj",
       "projectName": "app_consulta_cep",
-      "projectPath": "/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/app_consulta_cep.csproj",
+      "projectPath": "/Users/luizvictoral/Projects/app_consulta_cep2/app_consulta_cep/app_consulta_cep.csproj",
       "packagesPath": "/Users/luizvictoral/.nuget/packages/",
-      "outputPath": "/Users/luizvictoral/Projects/app_consulta_cep/app_consulta_cep/app_consulta_cep/obj",
+      "outputPath": "/Users/luizvictoral/Projects/app_consulta_cep2/app_consulta_cep/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
